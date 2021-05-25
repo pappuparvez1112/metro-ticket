@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "ticket": "$5.93",
+    "name": "Cardguard",
+    "image":"https://i.ibb.co/5sptdKM/Group-33145.png"
+    
+  }, {
+    "id": 2,
+    "ticket": "$4.73",
+    "name": "Zaam-Dox",
+    "image":"https://i.ibb.co/mStYp51/Group-33144.png"
+  }, {
+    "id": 3,
+    "ticket": "$4.03",
+    "name": "Lotlux",
+    "image":"https://i.ibb.co/RH3xHpX/Group-33143.png"
+  }, {
+    "id": 4,
+    "ticket": "$0.10",
+    "name": "Toughjoyfax"
+  }]
