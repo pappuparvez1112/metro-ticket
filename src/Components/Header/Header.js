@@ -21,7 +21,7 @@ const Header = () => {
       <Nav.Link href="/features">Features</Nav.Link>
       <Form inline>
       
-      <Button as={Link} to="/features"variant="outline-info">Log in</Button>
+      <Button as={Link} to="/login"variant="outline-info">Log in</Button>
     </Form>
       
     </Nav>

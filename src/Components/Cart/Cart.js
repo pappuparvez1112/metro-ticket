@@ -41,7 +41,7 @@ const Cart = (props) => {
                     <Card.Title className="font-weight-bold">{name}</Card.Title>
                     <br />
                      <br />
-                    <Button as={Link} to="/Features" variant="primary">Primary</Button>
+                    <Button as={Link} to="/Features" variant="primary">Book now</Button>
                     <br />
                      <br />
                     <Card.Text>
