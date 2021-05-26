@@ -16,9 +16,9 @@ const Header = () => {
          className="d-inline-block align-top"
         alt="" />
         </Navbar.Brand>
-      <Nav className="justify-content-end" >
-      <Nav.Link href="/home">Home</Nav.Link>
-      <Nav.Link href="/features">Features</Nav.Link>
+      <Nav  className="justify-content-end" >
+      <Link style={{margin:"auto",marginRight:"30px"}}to="/home">Home</Link>
+      <Link style={{margin:"auto",marginRight:"30px"}} to="/features">Features</Link>
       <Form inline>
       
       <Button as={Link} to="/login"variant="outline-info">Log in</Button>

@@ -24,8 +24,8 @@ function App() {
   return (
     <div className="app-header" >
       <UserContext.Provider value={[LoggedInUser,setLoggedInUser]}>
-      <h3> name:{LoggedInUser.name}</h3>
-      <h3> email:{LoggedInUser.email}</h3>
+      <h3 style={{color:"WindowFrame"}}> name:{LoggedInUser.name}</h3>
+      <h3 style={{color:"WindowFrame"}}> email:{LoggedInUser.email}</h3>
     
       <Router>
       
